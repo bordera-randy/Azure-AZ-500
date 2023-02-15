@@ -1,6 +1,9 @@
-# Azure-AZ-500
+# Azure-AZ-500  
+
+<img src="https://github.com/bordera-randy/Azure-AZ900/blob/main/img/2023-02-15%2006_38_44-Azure%20Training%20%2B%20Certification%20Guide%20and%208%20more%20pages%20-%20Work%202%20-%20Microsoft%E2%80%8B%20Edge.jpg" alt="Azure Fundamentals" width="1000" height="800">
 
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70   
+
 Skills Outline   
 -Manage identities in Azure AD  
 -Manage authentication by using Azure AD  
@@ -24,3 +27,19 @@ https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 
 ## Microsoft Certified: Azure Security Engineer Associate - Certification  
 Azure security engineers implement Azure security controls that protect identity, access, data, applications, and networks in cloud and hybrid environments as part of an end-to-end infrastructure.
+
+The Azure Security Engineer implements, manages, and monitors security for resources in Azure, multicloud, and hybrid environments as part of an end-to-end infrastructure. They recommend security components and configurations to protect identity & access, data, applications, and networks.
+
+Responsibilities for an Azure Security Engineer include managing the security posture, identifying and remediating vulnerabilities, performing threat modelling, and implementing threat protection. They may also participate in responding to security incidents.
+
+Azure Security Engineers work with architects, administrators, and developers to plan and implement solutions that meet security and compliance requirements.
+
+The Azure Security Engineer should have practical experience in administration of Microsoft Azure and hybrid environments. The Azure Security Engineer should have a strong familiarity with compute, network,and storage in Azure, as well as Azure Active Directory, part of Microsoft Entra.
+
+
+## Learning Path 
+
+[manage-identity-access](https://learn.microsoft.com/en-us/training/paths/manage-identity-access/)  
+[implement-platform-protection](https://learn.microsoft.com/en-us/training/paths/implement-platform-protection/)
+[secure-your-data-applications/](https://learn.microsoft.com/en-us/training/paths/secure-your-data-applications/)
+[manage-security-operation/](https://learn.microsoft.com/en-us/training/paths/manage-security-operation/)
