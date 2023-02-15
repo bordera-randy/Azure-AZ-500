@@ -1,6 +1,6 @@
 # Azure-AZ-500  
 
-<img src="https://github.com/bordera-randy/Azure-AZ-500/blob/main/img/Azure%20Security%20Engineer%20Associate.jpg" alt="Azure Fundamentals" width="1000" height="800">
+<img src="https://github.com/bordera-randy/Azure-AZ-500/blob/main/img/Azure%20Security%20Engineer%20Associate.jpg" alt="Azure Fundamentals" width="1000" height="1000">
 
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70   
 
