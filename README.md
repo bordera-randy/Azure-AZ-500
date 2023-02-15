@@ -1,6 +1,6 @@
 # Azure-AZ-500  
 
-<img src="https://github.com/bordera-randy/Azure-AZ900/blob/main/img/2023-02-15%2006_38_44-Azure%20Training%20%2B%20Certification%20Guide%20and%208%20more%20pages%20-%20Work%202%20-%20Microsoft%E2%80%8B%20Edge.jpg" alt="Azure Fundamentals" width="1000" height="800">
+<img src="https://github.com/bordera-randy/Azure-AZ-500/blob/main/img/Azure%20Security%20Engineer%20Associate.jpg" alt="Azure Fundamentals" width="1000" height="800">
 
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70   
 
