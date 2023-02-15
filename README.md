@@ -4,7 +4,7 @@
 
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70   
 
-Skills Outline   
+## Skills Outline   
 -Manage identities in Azure AD  
 -Manage authentication by using Azure AD  
 -Manage authorization by using Azure AD  
