@@ -40,6 +40,6 @@ The Azure Security Engineer should have practical experience in administration o
 ## Learning Path 
 
 [manage-identity-access](https://learn.microsoft.com/en-us/training/paths/manage-identity-access/)  
-[implement-platform-protection](https://learn.microsoft.com/en-us/training/paths/implement-platform-protection/)
-[secure-your-data-applications/](https://learn.microsoft.com/en-us/training/paths/secure-your-data-applications/)
-[manage-security-operation/](https://learn.microsoft.com/en-us/training/paths/manage-security-operation/)
+[implement-platform-protection](https://learn.microsoft.com/en-us/training/paths/implement-platform-protection/)  
+[secure-your-data-applications/](https://learn.microsoft.com/en-us/training/paths/secure-your-data-applications/)  
+[manage-security-operation/](https://learn.microsoft.com/en-us/training/paths/manage-security-operation/)  
